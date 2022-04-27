@@ -1,8 +1,9 @@
 # Bank Transaction Importing Tool
 
 ## Overview
-Tthis script imports data from CSV files downloaded from My Bank and Credit Card company into a Databse for review.  
-The script attempts to autocatogorize the merchant, income source, and category id for each transaction based on a set of rules stored in a database.
+This script imports data from CSV files downloaded from My Bank and Credit Card company into a Databse for review. The script attempts to autocatogorize the merchant, income source, and category id for each transaction based on a set of rules stored in a database.
+
+Run-Transactions.ps1 is the entry point of the application.
 
 ## How to use the script:
 
