@@ -24,4 +24,4 @@ import-module .\Transaction-Class.psm1
 Add-ExpensesIntoDatabase -Expenses $UpdatedExpenses
 Add-IncomeIntoDatabase -Income $UpdatedIncome
 
-#Remove-Files
+Remove-Files

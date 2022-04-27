@@ -8,7 +8,7 @@
             "name": "PowerShell Launch Script",
             "type": "PowerShell",
             "request": "launch",
-            "script": "${workspaceFolder}/run-transactions.ps1",
+            "script": "${workspaceFolder}/Import-BankTransactions.ps1",
             "cwd": "${workspaceFolder}"
         }
     ]
